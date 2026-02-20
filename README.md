@@ -14,3 +14,7 @@ If you want to help in developing - feel free to fork this project and customize
 
 # Options:
 - --background, -b : Set the background color for ICON0.png (fit mode). Choices: transparent (default), black, white.
+
+# Links:
+OSD-XMB - PS2 XMB: https://github.com/HiroTex/OSD-XMB
+PS2 OSX-XMB Art Fetcher: https://github.com/laurorual/PS2-OSD-XMB-Art-Fetcher
