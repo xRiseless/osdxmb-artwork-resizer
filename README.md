@@ -1,0 +1,1 @@
+# osdxmb-artwork-resizer
