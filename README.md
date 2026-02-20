@@ -17,4 +17,4 @@ If you want to help in developing - feel free to fork this project and customize
 
 # Links:
 - OSD-XMB - PS2 XMB: https://github.com/HiroTex/OSD-XMB
-- PS2 OSX-XMB Art Fetcher: https://github.com/laurorual/PS2-OSD-XMB-Art-Fetcher
+- PS2 OSD-XMB Art Fetcher: https://github.com/laurorual/PS2-OSD-XMB-Art-Fetcher
